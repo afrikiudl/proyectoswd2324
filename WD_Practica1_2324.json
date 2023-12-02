@@ -1,0 +1,184 @@
+[{
+        "id": 1,
+        "autor": "Meritxell Algueró i Noemí Farré",
+        "titulo": "PlayExp",
+        "srcimg": "https://raw.githubusercontent.com/MeriAlguero/PlayExp/main/media/laptop_1280x800.png",
+        "alt": "Imagen de la pagina web, se puede ver el menu, el banner, el aside y un poco del apartado sobre nosotros",
+		"texto": "Página web donde podrás encontrar todo tipo de información sobre videojuegos: noticias, novedades, guias, tops, juegos de todo tipo, un foro y mucho más",
+		"url": "https://merialguero.github.io/PlayExp/"
+    },
+    {
+        "id": 2,
+        "autor": "Nuria Butnariu y Paula Alcalá",
+        "titulo": "Landing page: cuentos interactivos",
+        "srcimg": "https://cdn.discordapp.com/attachments/1029047963890237451/1169458027217293382/Captura_de_pantalla_235.png?ex=655579a9&is=654304a9&hm=4403ca77b949a414f5f3708185e31d3e1ef1fc8d233c962e22a8f24f23c11e36&",
+        "alt": "Dos personajes, uno a cada lado de la pantalla, uno en tonos verdes serio y el otro animado en tonos rojos.",
+        "texto": "Página explicativa sobre nuestro próximo proyecto, un cuento interactivo en formato web",
+        "url": "https://kooky27.github.io/cuento-interactivo-/index.html"
+    },
+    {
+        "id": 3,
+        "autor": "Elba Batista Boldú i Amal Uali Boussouab",
+        "titulo": "Balema Museum",
+        "srcimg": "https://raw.githubusercontent.com/elbabati/The-Balema-Museum/main/imatgesbalema/balemalogofonsnegre.png",
+        "alt": "Logotip de Balema",
+        "texto": "És la web d'un museu d'art interactiu i contemporani",
+        "url": "https://elbabati.github.io/The-Balema-Museum/"
+    },
+        {
+        "id": 4,
+        "autor": "Angels Bampton i Queralt Bisbe",
+        "titulo": "Urban Groove Center",
+        "srcimg": "https://raw.githubusercontent.com/bisbii/Urban-Groove-Center/Urbangroove/fotos/urbangroovecenter-logo3.png",
+        "alt": "La imatge anterior és el logo de la nostra escola. Amb el nom, els colors corporatius i la esència d'aquesta.",
+        "texto": "Es tracta d'una escola de dansa urbana. Aquesta compta amb diferents apartats típics d'una web informativa. Des de els professors amb els que compten fins al contacte amb la l'empresa.",
+        "url": "https://bisbii.github.io/Urban-Groove-Center/"
+    },
+    {
+        "id": 5,
+        "autor": "Miguel Escabias y Eloi Burrueco",
+        "titulo": "FORMULA WAN",
+        "srcimg": "https://22eloi.github.io/formulawan/imatges/foto2.jpg",
+        "alt": "Coche Formula 1",
+        "texto": "Información y notícias sobre la Formula 1",
+        "url": "https://22eloi.github.io/formulawan/"
+    },
+    {
+        "id": 6,
+        "autor": "Miquel Castells Hereu i Mateu Camarasa Inglada",
+        "titulo": "Ager Gestió Assessors",
+        "srcimg": "https://raw.githubusercontent.com/mmateeu/mmateeu.github.io/main/Image/AGERgestio%CC%81OK-1.jpg",
+        "alt": "logo de la gestoria",
+        "texto": "Lloc web d'una gestoria",
+        "url": "https://mmateeu.github.io/"
+    },
+    {
+        "id": 7,
+        "autor": "Candela Carrión, Pol González",
+        "titulo": "ECHO BRAND",
+        "srcimg": "https://candecg.github.io/ECHO-BRAND/IMATGES%20LANDING%20PAGE/LOGO.PNG",
+        "alt": "Logo de la marca",
+        "texto": "En ECHO buscamos que nuestros clientes se sumen a nuestra causa, para conseguir eso, queremos promocionar una visión de la moda sostenible y ética, con prendas de ropa fabricadas a partir de materiales reciclados.",
+        "url": "https://candecg.github.io/ECHO-BRAND/"
+    },
+    {
+        "id": 8,
+        "autor": "Hamza Boufra y  Raúl Cavero",
+        "titulo": "Transportes y Excavaciones Hermanos Cavero",
+        "srcimg": "https://raw.githubusercontent.com/iRupaS/transportescavero.github.io/main/webtransportescavero/logo_dark.png",
+        "alt": "logo Transportes Cavero",
+        "texto": "Transportes y Excavaciones Hermanos Cavero",
+        "url": "https://irupas.github.io/transportescavero.github.io/"
+    }, 
+    {
+        "id": 9,
+        "autor": "AriadnaGrimau-AitanaArrufat",
+        "titulo": "U-ART",
+        "srcimg": "https://ariadnagrimau.github.io/U-A-R-T/imatges/F1.jpg",
+        "alt": "LOGO U ART",
+        "texto": "U ART és una web d’exposició i compra d’obres artístiques, on es proporciona informació detallada sobre els artistes i les seves obres.",
+        "url": "https://ariadnagrimau.github.io/U-A-R-T/"
+    },
+    {
+        "id": 10,
+        "autor": "Ivonne Hernández y Elian Naval",
+        "titulo": "Festival Aquelarre",
+        "srcimg": "https://raw.githubusercontent.com/vonndez/festivalaquelarre.github.io/main/Fotos%20Web/Aquelarre_Ilustraciones%20(2).png",
+        "alt": "Ilustración manual sintética de 3 brujas",
+        "texto": "Festival de Música, Tecnología y Feminismo. Celebrado en Morelia, Michoacán, México.",
+        "url": "https://vonndez.github.io/festivalaquelarre.github.io/"
+    },
+    {
+        "id": 11,
+        "autor": "David Gili Gilart & Ivan López Chacón",
+        "titulo": "Serpensoft",
+        "srcimg": "https://raw.githubusercontent.com/iv4nxd/iv4nxd.github.io/main/estilo/logo.png",
+        "alt": "Logo Serpensoft",
+        "texto": "Web de venta de productos de airsoft.",
+        "url": "https://iv4nxd.github.io/"
+    },
+    {
+        "id": 12,
+        "autor": "Javier Lorente i Nick Orue",
+        "titulo": "Lotus Porfolio",
+        "srcimg": "https://javierudl2012.github.io/lotusporfolio.github.io/Recursos/Nick/15.png",
+        "alt": "Il·lustració d'un Choncc per Nick Orue",
+        "texto": "Hem decidit crear un portfolio digital amb l'objectiu d'apel·lar a artistes i oferir un espai online on poder publicar i publicitar les seves obres a més de ser comissionats o contractats, facilitant a les empreses entrar en contacte amb aquests artistes.",
+        "url": "https://javierudl2012.github.io/lotusporfolio.github.io/"
+    },
+    {
+        "id": 13,
+        "autor": "Said Marchuh y Yimeng Zhang",
+        "titulo": "GenioMarketing",
+        "srcimg": "https://webyimengzhang.github.io/geniomarketing/imatge/agencia-marketing-digital.jpg",
+        "alt": "Coworking de nuesta agencia",
+        "texto": "Aquest document té com a objectiu proporcionar una visió detallada del projecte de creació de la pàgina web de Genio Marketing, una nova agència de màrqueting digital que ha establert les seves operacions recentment (ﬁctici) . Aquest projecte sorgeix com una resposta a les creixents necessitats de les empreses de promocionar els seus productes i serveis en línia.",
+        "url": "https://webyimengzhang.github.io/geniomarketing/"
+    },
+    {
+        "id": 14,
+        "autor": "Nel Vilella. Juanra Maselles",
+        "titulo": "NudeNews",
+        "srcimg": "https://nelsonlive.github.io/nudenews/assets/images/logo.png",
+        "alt": "imagen del logo superior de la pagina web",
+        "texto": "Nuestra web va sobre noticias sobre el medioambiente, informando sobre las ultimas novedades de este tema que nos afecta a todos, y incluimos un apartado con un ranking de personas influyentes en el mundo del medio ambiente, que hayan ganado un premio novel o que hayan aportado algo positivo",
+        "url": "https://nelsonlive.github.io/nudenews/"
+    },
+    {
+        "id": 15,
+        "autor": "Ainoa Monclús i Llúcia Monferre",
+        "titulo": "M.M Events | Wedding Planner",
+        "srcimg": "https://raw.githubusercontent.com/hainou21/hainou21.github.io/main/media/foto_portada.png",
+        "alt": "Imagen de la cabecera de nuestra web. Contiene el logo de la empresa.",
+        "texto": "Web informativa de M.M Events, una empresa de wedding planner. La web se presenta con un header simple y una cabecera donde observamos una foto con nuestro logo. Si vas bajando encuentras 5 secciones donde hay información variada de la empresa, y una galería de fotos.",
+        "url": "https://hainou21.github.io"
+    },
+    {
+        "id": 16,
+        "autor": "Bertran Pujol i Maria Piñol",
+        "titulo": "Què fem? LLeida",
+        "srcimg": "https://raw.githubusercontent.com/bertranpujol/QueFemLleidaMB/main/seu%20vella.jpeg",
+        "alt": "Image de la Seu Vella, Lleida",
+        "texto": "Proporcionar als estudiants nous arribats a Lleida una font valuosa d'informació sobre els esdeveniments i activitats que es duen a terme a la ciutat. Volem ajudar els nous residents a adaptar-se i aprofitar al màxim la seva experiència a Lleida mantenint-los informats sobre les oportunitats disponibles. ",
+        "url": "https://bertranpujol.github.io/QueFemLleidaMB/"
+    },
+    {
+        "id": 17,
+        "autor": "Gerard Piñol Mancheño, Jan Guasch Guasch",
+        "titulo": "RenDin. Renders d'interiorisme",
+        "srcimg": "https://unsplash.com/es/fotos/mesa-y-sillas-de-madera-negra-wDDfbanbhl8",
+        "alt": "Imatge d'un interior on es mostren cadires i una taula de fusta negre.",
+        "texto": "Web de renders d'interiorisme en 3D per a empreses",
+        "url": "https://pinyiweb.github.io/"
+    },
+    {
+        "id": 18,
+        "autor": "Raül Puig Caro",
+        "titulo": "FireFrame",
+        "srcimg": "https://fire-frame.github.io/Images/studio-ghibli.jpg",
+        "alt": "FRAME",
+        "texto": "E-COMMERCE",
+        "url": "https://fire-frame.github.io/"
+    },
+    {
+        "id": 19,
+        "autor": "Joan Mesquida y Sara Sanchez",
+        "titulo": "What-to-Eat",
+        "srcimg": "https://raw.githubusercontent.com/mesquida/What-to-Eat-/main/1.jpg",
+        "alt": "Foto posada al carrusel, té a veure amb aspectes culinaris.",
+        "texto": "La nostra pàgina web tracta d'un lloc web sobre cuina.",
+        "url": "https://github.com/mesquida/What-to-Eat"
+    },
+    {
+        "id": 20,
+        "autor": "Vitaliy Skrynyk",
+        "titulo": "Web Llibres",
+        "srcimg": "https://raw.githubusercontent.com/VitaliySkrynyk/WebLlibres/main/Maquetado/assets/icono.webp",
+        "alt": "Imatge png de uns llibres il·lustrats",
+        "texto": "És una web per a vendre llibres, et logueges i podràs accedir al catàleg dels llibres.",
+        "url": "xxx"
+    }
+
+
+
+]
