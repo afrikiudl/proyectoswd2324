@@ -44,5 +44,15 @@
 		"texto": "Página dedicada a los amantes de los videojuegos, un lugar seguro para crear comunidad.",
 		"url": "https://noemifarre.github.io/playexp/"
     }
+	    },
+	{
+        "id": 5,
+        "autor": "Bertran Pujol i Maria Piñol",
+        "titulo": "Que fem? Lleida",
+        "srcimg": "https://bertranpujol.github.io/prova/img/seu.70de5a0b.jpg",
+        "alt": "Seu Vella",
+		"texto": "Pàgina més complerta per a pensar i veure que fer per la fantàstica ciutat de Lleida.",
+		"url": "https://bertranpujol.github.io/prova/"
+    }
 
 ]
