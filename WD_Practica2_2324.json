@@ -105,6 +105,15 @@
 	"alt": "Doncellas del bosque bailando",
  	"texto": "Festival de Música, Tecnología y Feminismo. Celebrado en Morelia, Michoacán, México.",
 	"url": "https://eliannaval.github.io/esto-es-otra-prueba/"
+    },
+	{
+        "id": 12,
+        "autor": "Amal Uali i Elba Batista",
+	"titulo": "The Balema Museum",
+	"srcimg": "https://github.com/elbabati/miyomiyomiyo/blob/main/balema.png?raw=true",
+	"alt": "Logotip del museu Balema",
+ 	"texto": "Web d'un museu que explora diferents tipus d'art",
+	"url": "https://elbabati.github.io/miyomiyomiyo/"
     }
 
 
