@@ -52,7 +52,7 @@
         "alt": "Seu Vella",
 		"texto": "Pàgina més complerta per a pensar i veure que fer per la fantàstica ciutat de Lleida.",
 		"url": "https://bertranpujol.github.io/provaLleida/Preg-freq"
-    }
+    },
 	{
         "id": 6,
         "autor": "Queralt Bisbe Martinez i Àngels Bampton Blasco",
@@ -61,6 +61,15 @@
         "alt": "La imatge anterior és el logo de la nostra escola. Amb el nom, els colors corporatius i la esència d'aquesta.",
 		"texto": "Es tracta d'una escola de dansa urbana. Aquesta compta amb diferents apartats típics d'una web informativa. Des de els professors amb els que compten fins al contacte amb la l'empresa. La difernència es que esta vegada no és una OnePage.",
 		"url": "https://angelsbampton.github.io/urbangroove3/"
+    },
+	{
+        "id": 7,
+        "autor": "Yimeng Zhang i Said Marchouh",
+        "titulo": "Genio Marketing",
+        "srcimg": "https://webyimengzhang.github.io/ex1/img/agencia-marketing-digital.021ba110.jpg",
+        "alt": "La imatge anterior és una dels imatges de Home.",
+		"texto": "Som Genio marketing, una Agència de Branding que crea i impulsa marques mitjançant la creativitat, l'estratègia i la comunicació. Afecte i empatia per fer marques que impactin.",
+		"url": "https://webyimengzhang.github.io/ex1/"
     }
 
 ]
