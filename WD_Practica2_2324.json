@@ -78,6 +78,15 @@
         "alt": "Obra artística",
 	"texto": "U ART és una web d’exposició i compra d’obres artístiques, on es proporciona informació detallada sobre els artistes i les seves obres..",
 	"url": "https://ariadnagrimau.github.io/prova6/"
+    },
+	{
+        "id": 9,
+        "autor": "Eloi Burrueco i Miguel Escabias",
+        "titulo": "Formula Wan",
+        "srcimg": "https://22eloi.github.io/formulawan/imatges/foto2.jpg",
+        "alt": "Coche Formula 1",
+	"texto": "Información y notícias sobre la Formula 1",
+	"url": "https://22eloi.github.io/webdinamica33/"
     }
 
 
