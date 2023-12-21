@@ -53,5 +53,14 @@
 		"texto": "Pàgina més complerta per a pensar i veure que fer per la fantàstica ciutat de Lleida.",
 		"url": "https://bertranpujol.github.io/prova/"
     }
+	{
+        "id": 6,
+        "autor": "Queralt Bisbe Martinez i Àngels Bampton Blasco",
+        "titulo": "Urban Groove Center",
+        "srcimg": "https://raw.githubusercontent.com/bisbii/Urban-Groove-Center/Urbangroove/fotos/urbangroovecenter-logo3.png",
+        "alt": "La imatge anterior és el logo de la nostra escola. Amb el nom, els colors corporatius i la esència d'aquesta.",
+		"texto": "Es tracta d'una escola de dansa urbana. Aquesta compta amb diferents apartats típics d'una web informativa. Des de els professors amb els que compten fins al contacte amb la l'empresa. La difernència es que esta vegada no és una OnePage.",
+		"url": "https://angelsbampton.github.io/urbangroove3/"
+    }
 
 ]
