@@ -87,6 +87,15 @@
         "alt": "Coche Formula 1",
 	"texto": "Información y notícias sobre la Formula 1",
 	"url": "https://22eloi.github.io/webdinamica33/"
+    },
+{
+        "id": 10,
+        "autor": "Paula Alcalá i Nuria A. Butnariu",
+        "titulo": "Historia interctiva; el encuentro de Levy y Gheek",
+        "srcimg": "https://github.com/Kooky27/pra2webfinal/blob/main/img/banner_levy_gheek.ccaae734.png",
+        "alt": "Dos chicos uno en cada lado de la pantalla, uno con expressión seria y el otro animada.",
+	"texto": "¡Adentrate en el bosque de Gyrio y conoce a nuestros protagonistas!",
+	"url": "https://kooky27.github.io/pra2webfinal/"
     }
 
 
