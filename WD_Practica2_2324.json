@@ -25,6 +25,15 @@
         "alt": "Logo Àger Gestió",
 		"texto": "Página web de la Gestoría familiar",
 		"url": "https://mmateeu.github.io/agergestio/#/"
-	}
+	},
+	{
+        "id": 3,
+        "autor": "Hamza Boufra y Raúl Cavero",
+        "titulo": "Transportes y excavaciones Hermanos Cavero",
+        "srcimg": "https://irupas.github.io/transportesvue/img/Background.d28f0c73.png",
+        "alt": "Excavadora",
+		"texto": "Página web de una empresa de Transporte",
+		"url": "https://irupas.github.io/transportesvue/"
+    }
 
 ]
