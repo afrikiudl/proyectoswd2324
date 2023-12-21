@@ -7,9 +7,26 @@
 	"texto": "Página web de resumen de las prácticas de los alumnos",
 	"url": "https://afrikiudl.github.io/proyectoswd2324/"
     },
-	
 	{
-        "id": 1,
+	"id": 1,
+        "autor": "Javier Lorente y Nick Orue",
+        "titulo": "Lotus Porfolio",
+        "srcimg": "https://javierudl2012.github.io/lotusporfolio.github.io/Recursos/Nick/6.png",
+        "alt": "PINK LADY, una ilustració de Nick Orue",
+	"texto": "Una pàgina de porfolios per artistes digitals.",
+	"url": "https://javierudl2012.github.io/lotusporfoliopractica/"
+	},
+	{
+	"id": 2,
+        "autor": "Miquel Castells i Mateu Camarasa",
+        "titulo": "Àger Gestió",
+        "srcimg": "https://jovent.ager.cat/wp-content/uploads/2022/08/anunci-festa-major-2022.jpg",
+        "alt": "Logo Àger Gestió",
+	"texto": "Página web de la Gestoría familiar",
+	"url": "https://mmateeu.github.io/agergestio/#/"
+	},
+	{
+        "id": 3,
         "autor": "Hamza Boufra y Raúl Cavero",
         "titulo": "Transportes y excavaciones Hermanos Cavero",
         "srcimg": "https://irupas.github.io/transportesvue/img/Background.d28f0c73.png",
