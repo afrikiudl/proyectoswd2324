@@ -9,16 +9,7 @@
     },
 	
 	{
-	"id": 1,
-        "autor": "Javier Lorente y Nick Orue",
-        "titulo": "Lotus Porfolio",
-        "srcimg": "https://javierudl2012.github.io/lotusporfolio.github.io/Recursos/Nick/6.png",
-        "alt": "PINK LADY, una ilustració de Nick Orue",
-	"texto": "Una pàgina de porfolios per artistes digitals.",
-	"url": "https://javierudl2012.github.io/lotusporfoliopractica/"
-	},
-	{
-        "id": 2,
+        "id": 1,
         "autor": "Hamza Boufra y Raúl Cavero",
         "titulo": "Transportes y excavaciones Hermanos Cavero",
         "srcimg": "https://irupas.github.io/transportesvue/img/Background.d28f0c73.png",
