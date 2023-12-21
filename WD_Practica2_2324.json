@@ -96,6 +96,15 @@
         "alt": "Dos chicos uno en cada lado de la pantalla, uno con expressión seria y el otro animada.",
 	"texto": "¡Adentrate en el bosque de Gyrio y conoce a nuestros protagonistas!",
 	"url": "https://kooky27.github.io/pra2webfinal/"
+    },
+{
+        "id": 11,
+        "autor": "Ivonne Hernández y Elián Naval",
+	"titulo": "Festival Aquelarre",
+	"srcimg": “https://eliannaval.github.io/esto-es-otra-prueba/img/portada1.010ef8d4.png”,
+	"alt": "Doncellas del bosque bailando",
+ 	"texto": "Festival de Música, Tecnología y Feminismo. Celebrado en Morelia, Michoacán, México.”,
+	"url": "https://eliannaval.github.io/esto-es-otra-prueba/"
     }
 
 
