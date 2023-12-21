@@ -69,6 +69,15 @@
         "alt": "La imatge anterior és una dels imatges de Home.",
 	"texto": "Som Genio marketing, una Agència de Branding que crea i impulsa marques mitjançant la creativitat, l'estratègia i la comunicació. Afecte i empatia per fer marques que impactin.",
 	"url": "https://webyimengzhang.github.io/ex1/"
+    },
+	{
+        "id": 8,
+        "autor": "Aitana Arrufat i Ariadna Grimau",
+        "titulo": "U ART",
+        "srcimg": "https://images.pexels.com/photos/3527786/pexels-photo-3527786.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "alt": "Obra artística",
+	"texto": "U ART és una web d’exposició i compra d’obres artístiques, on es proporciona informació detallada sobre els artistes i les seves obres..",
+	"url": "https://ariadnagrimau.github.io/prova6/"
     }
 
 
