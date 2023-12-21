@@ -7,14 +7,15 @@
 		"texto": "Página web de resumen de las prácticas de los alumnos",
 		"url": "https://afrikiudl.github.io/proyectoswd2324/"
     },
+	
 	{
-        "id": 1,
-        "autor": "Afra Pascual xxxxxx",
-        "titulo": "Web Dinámica",
-        "srcimg": "https://afrikiudl.github.io/proyectoswd2324/img/graudiseny.6ef55c0b.jpg",
-        "alt": "Persona con gafas de realidad virtual y el texto de Grado de Diseño Digital y Tecnologías Creativas",
-		"texto": "Página web de resumen de las prácticas de los alumnos",
-		"url": "https://afrikiudl.github.io/proyectoswd2324/"
-    }
+	"id": 1,
+        "autor": "Javier Lorente y Nick Orue",
+        "titulo": "Lotus Porfolio",
+        "srcimg": "https://javierudl2012.github.io/lotusporfolio.github.io/Recursos/Nick/6.png",
+        "alt": "PINK LADY, una ilustració de Nick Orue",
+		"texto": "Una pàgina de porfolios per artistes digitals.",
+		"url": "https://javierudl2012.github.io/lotusporfoliopractica/"
+	}
 
 ]
