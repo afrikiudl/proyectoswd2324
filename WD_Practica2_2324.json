@@ -18,15 +18,6 @@
 	"url": "https://javierudl2012.github.io/lotusporfoliopractica/"
 	},
 	{
-	"id": 2,
-        "autor": "Miquel Castells i Mateu Camarasa",
-        "titulo": "Àger Gestió",
-        "srcimg": "https://jovent.ager.cat/wp-content/uploads/2022/08/anunci-festa-major-2022.jpg",
-        "alt": "Logo Àger Gestió",
-	"texto": "Página web de la Gestoría familiar",
-	"url": "https://mmateeu.github.io/agergestio/#/"
-	},
-	{
         "id": 3,
         "autor": "Hamza Boufra y Raúl Cavero",
         "titulo": "Transportes y excavaciones Hermanos Cavero",
