@@ -114,6 +114,15 @@
 	"alt": "Logotip del museu Balema",
  	"texto": "Web d'un museu que explora diferents tipus d'art",
 	"url": "https://elbabati.github.io/miyomiyomiyo/"
+    },
+	{
+        "id": 1,
+        "autor": "Raül Puig",
+"titulo": "FireFrame",
+"srcimg": “https://cdn.wallapop.com/images/10420/fm/48/__/c10420p944141829/i3530497487.jpg?pictureSize=W640 ",
+"alt": "Frame Studio Ghibli",
+  "texto": "E-Commerce Laser Art",
+"url": "https://fire-frame.github.io/fireframevue/"
     }
 
 
